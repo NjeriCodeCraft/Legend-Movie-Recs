@@ -1,26 +1,29 @@
-# CSS Layouts and Responsive Design
+# 🎬 Legend Movie Rec
 
-## Objectives
+A responsive and visually engaging fan site for popular sci-fi and fantasy series — starting with *Legacies* and *The Gifted*. Built with HTML, CSS, and JavaScript, this project is designed to be expandable for more movies and shows in the future.
 
-Implement Flexbox and Grid for layout design.
-Make the webpage responsive using media queries.
-Ensure proper alignment and spacing.
+## 🌟 Features
 
-## Instructions
+- 💻 Fully responsive layout for mobile and desktop
+- 🎨 Themed design for Legacies & The Gifted
+- 🧙 Character highlights and episode info
+- 🌈 Animated UI elements for a modern look
+- 🧩 Modular structure to easily add more movies/shows
 
-- use Flexbox or CSS Grid.
-- Add a navigation bar and structure the content.
-- Use media queries to adjust layout for mobile, tablet, and desktop.
+## 🚀 Tech Stack
 
->[!NOTE]
->  - Include at least:
->  - navigation bar
->  - media queries
+- HTML5
+- CSS3 (with animations)
+- JavaScript (for interactivity)
 
-# Tasks
+## 🛠️ Future Plans
 
-- Apply Flexbox or Grid for layout.
-- Make the page responsive.
-- Test across different screen sizes.
+- Add more shows and movies (e.g. Shadowhunters, The Originals, etc.)
+- Include a recommendation system
+- User reviews or rating features
 
-Happy Coding! 💻✨
+## 🔗 Live Demo
+
+[Coming Soon]
+
+
